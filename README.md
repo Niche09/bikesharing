@@ -1,2 +1,3 @@
-# bikesharing
-<a href="link">"C:\Users\Nichelle\Desktop\Classwork\Bikesharing\NYC_Citibike_Challenge.ipynb"</a> 
+# bikesharig
+![image](https://user-images.githubusercontent.com/106127571/188043513-3eef3ad9-dec8-4a14-9f0c-2b1aaab27868.png)
+
